@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+#### 👯 I’m looking to collaborate on AI-Fintech projects and/or lead the development of new web/mobile projects.
+
+#### 🤔 I'm currently looking for help with [The Automata Project](https://www.github.com/upstarter/automata)
+
+#### 🔭 I’m currently working on a flask extension for [Adaptive Products](https://www.ericsteen.dev)
+
+#### 💬 Ask me about AI, MBTI, Product Leadership, Options Trading
 <!--
 **upstarter/upstarter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
