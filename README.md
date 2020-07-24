@@ -1,5 +1,5 @@
 <!-- ![](./particle-background.gif) -->
-### Hi there 👋
+### Hi there, I'm Eric Steen, Scientist  👋
 
 - 👯 I’m looking to collaborate on AI-Fintech projects and/or lead the development of new web/mobile projects.
 
