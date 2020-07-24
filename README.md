@@ -1,3 +1,6 @@
+
+![](./particles.gif)
+
 ### Hi there 👋
 
 - 👯 I’m looking to collaborate on AI-Fintech projects and/or lead the development of new web/mobile projects.
