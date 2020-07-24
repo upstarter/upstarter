@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on a flask extension for [Adaptive Products](https://www.ericsteen.dev)
 
-- 💬 Ask me about AI, Product Roadmapping, Options Trading, Music History
+- 💬 Ask me about AI, Cryptoeconomics, Product/Project Roadmapping, Security, Options Trading, Music History
 
 <!--
 **upstarter/upstarter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
