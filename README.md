@@ -1,5 +1,5 @@
 
-![](./particles.gif)
+![](./particle-background.gif)
 
 ### Hi there 👋
 
