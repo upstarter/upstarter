@@ -1,7 +1,7 @@
 <!-- ![](./particle-background.gif) -->
 ### Hi there, I'm Eric Steen, Product Architect + Business, Finance & Economic Scientist  👋
 
-- 👯 I’m looking to collaborate on AI-Fintech projects and/or lead the development of new web/mobile projects.
+- 👯 I’m looking to collaborate on AI-WealthTech projects and/or lead the development of new web/mobile projects.
 
 - 🌱 I’m currently learning *Heterogeneous Multi-Agent Concurrent & Distributed AI Systems*, *Mult-Armed Contextual Bandits w/ Strategic Arms*, *Taskable Reinforcement Learning w/ Finite Automata Reward Machines*, *Linear Temporal Logic*
 
