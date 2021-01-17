@@ -7,7 +7,7 @@
 
 - 🤔 I'm currently looking for help with these projects:
   - [Cryptowise](https://www.github.com/upstarter/cryptowise) - An ecosystem for quantamental traders and investors
-  - [The Automata Project](https://www.github.com/upstarter/automata) - An framework for building autonomous decentralized intelligent agents.
+  - [The Automata Project](https://www.github.com/upstarter/automata) - An framework for building mult-agent artificially intelligent autonomous decentralized systems.
 
 <!--- 🔭 I’m currently working on a flask extension for [Adaptive Products](https://www.ericsteen.dev) -->
 
