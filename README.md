@@ -1,13 +1,13 @@
 <!-- ![](./particle-background.gif) -->
 ### Hi there, I'm Eric Steen 👋
 
-- 👯 I’m looking to collaborate on AI-WealthTech projects and/or lead the development of new web/mobile projects.
+- 👯 I’m looking to collaborate on WealthTech and AI projects and lead the development of new web/mobile projects.
 
 - 🌱 I’m currently learning *Heterogeneous Multi-Agent Concurrent & Distributed AI Systems*, *Multi-Armed Contextual Bandits w/ Strategic Arms*, *Taskable Reinforcement Learning w/ Finite Automata Reward Machines*, *Linear Temporal Logic*
 
 - 🤔 I'm currently looking for help with [The Automata Project](https://www.github.com/upstarter/automata)
 
-- 🔭 I’m currently working on a flask extension for [Adaptive Products](https://www.ericsteen.dev)
+<!--- 🔭 I’m currently working on a flask extension for [Adaptive Products](https://www.ericsteen.dev) -->
 
 - 💬 Ask me about AI, Cryptoeconomics, Product/Project Roadmapping, Security, Options Trading, Music History
 
