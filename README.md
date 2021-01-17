@@ -1,7 +1,7 @@
 <!-- ![](./particle-background.gif) -->
 ### Hi there, I'm Eric Steen 👋
 
-- 👯 I’m looking to collaborate on WealthTech and AI projects, work in AI, data engineering and scienct, Devops and/or lead the development of new projects.
+- 👯 I’m looking to collaborate on WealthTech and AI projects, work in AI, data engineering and science, Devops and/or lead the development of new projects.
 
 - 🌱 I’m currently learning *Heterogeneous Multi-Agent Concurrent & Distributed AI Systems*, *Multi-Armed Contextual Bandits w/ Strategic Arms*, *Taskable Reinforcement Learning w/ Finite Automata Reward Machines*, *Linear Temporal Logic*
 
