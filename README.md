@@ -1,8 +1,6 @@
 <!-- ![](./particle-background.gif) -->
 ### Hi there, I'm Eric Steen 👋
-<p><strong>Languages</strong>: Python, Elixir & OTP, Kotlin for Android, Swift for Tensorflow, Ruby, JavaScript (ES7)</p>
-<p><strong>Frameworks</strong>: Flask, Android, iOS, Phoenix, Django, Rails, React</p>
-<p><strong>Paradigms</strong>: Object Oriented Analysis and Design, Functional Programming, Mult-agent systems, Domain Driven Design, Microservices, Gitops</p>
+
 - 👯 I’m looking to collaborate on WealthTech and AI projects, work in AI, data engineering and science, Devops and/or lead the development of new projects.
 
 - 🌱 I’m currently learning *Heterogeneous Multi-Agent Concurrent & Distributed AI Systems*, *Multi-Armed Contextual Bandits w/ Strategic Arms*, *Taskable Reinforcement Learning w/ Finite Automata Reward Machines*, *Linear Temporal Logic*
@@ -16,6 +14,13 @@
 
 - 💬 Ask me about AI, Cryptoeconomics, Product/Project Roadmapping, Security, Options Trading, Music History
 
+- 📫 How to reach me: ericsteen1@gmail.com
+
+- ⚡ Fun fact: My band in high school almost got a record deal in sweden.
+
+<p><strong>Languages</strong>: Python, Elixir & OTP, Kotlin for Android, Swift for Tensorflow, Ruby, JavaScript (ES7)</p>
+<p><strong>Frameworks</strong>: Flask, Android, iOS, Phoenix, Django, Rails, React</p>
+<p><strong>Paradigms</strong>: Object Oriented Analysis and Design, Functional Programming, Mult-agent systems, Domain Driven Design, Microservices, Gitops</p>
 <!--
 **upstarter/upstarter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
