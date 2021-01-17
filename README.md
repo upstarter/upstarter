@@ -1,5 +1,5 @@
 <!-- ![](./particle-background.gif) -->
-### Hi there, I'm Eric Steen, Product Architect + Business, Finance & Economic Scientist  👋
+### Hi there, I'm Eric Steen 👋
 
 - 👯 I’m looking to collaborate on AI-WealthTech projects and/or lead the development of new web/mobile projects.
 
