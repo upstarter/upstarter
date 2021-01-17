@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning *Heterogeneous Multi-Agent Concurrent & Distributed AI Systems*, *Multi-Armed Contextual Bandits w/ Strategic Arms*, *Taskable Reinforcement Learning w/ Finite Automata Reward Machines*, *Linear Temporal Logic*
 
-- 🤔 I'm currently looking for help with [The Automata Project](https://www.github.com/upstarter/automata)
+- 🤔 I'm currently looking for help with [Cryptowise](https://www.github.com/upstarter/cryptowise) and [The Automata Project](https://www.github.com/upstarter/automata)
 
 <!--- 🔭 I’m currently working on a flask extension for [Adaptive Products](https://www.ericsteen.dev) -->
 
