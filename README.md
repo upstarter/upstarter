@@ -6,8 +6,9 @@
 - 🌱 I’m currently learning *Heterogeneous Multi-Agent Concurrent & Distributed AI Systems*, *Multi-Armed Contextual Bandits w/ Strategic Arms*, *Taskable Reinforcement Learning w/ Finite Automata Reward Machines*, *Linear Temporal Logic*
 
 - 🤔 I'm currently looking for help with these projects:
-  - [Cryptowise](https://www.github.com/upstarter/cryptowise) - An ecosystem for quantamental traders and investors
-  - [The Automata Project](https://www.github.com/upstarter/automata) - An framework for building mult-agent artificially intelligent autonomous decentralized systems.
+  - [Cryptowise](https://www.github.com/upstarter/cryptowise) - An ecosystem for quantamental traders and investors. Elixir, React, Microservices.
+  - [The Automata Project](https://www.github.com/upstarter/automata) - An framework for building mult-agent artificially intelligent autonomous decentralized systems. Elixir.
+  - VolatilityWorks - The source for options volatility analysis and strategic trading. Coming Soon!
 
 <!--- 🔭 I’m currently working on a flask extension for [Adaptive Products](https://www.ericsteen.dev) -->
 
