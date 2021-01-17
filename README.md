@@ -1,6 +1,8 @@
 <!-- ![](./particle-background.gif) -->
 ### Hi there, I'm Eric Steen 👋
-
+<p><strong>Languages</strong>: Python, Elixir & OTP, Kotlin for Android, Swift for Tensorflow, Ruby, JavaScript (ES7)</p>
+<p><strong>Frameworks</strong>: Flask, React, Android, iOS, Phoenix, Django, Rails</p>
+<p><strong>Paradigms</strong>: OO, FP, DDD, Differentiable Programming</p>
 - 👯 I’m looking to collaborate on WealthTech and AI projects, work in AI, data engineering and science, Devops and/or lead the development of new projects.
 
 - 🌱 I’m currently learning *Heterogeneous Multi-Agent Concurrent & Distributed AI Systems*, *Multi-Armed Contextual Bandits w/ Strategic Arms*, *Taskable Reinforcement Learning w/ Finite Automata Reward Machines*, *Linear Temporal Logic*
