@@ -12,7 +12,7 @@
 
 <!--- 🔭 I’m currently working on a flask extension for [Adaptive Products](https://www.ericsteen.dev) -->
 
-#### 💬 Ask me about AI, Cryptoeconomics, Product/Project Roadmapping, Security, Options Trading, Music History
+#### 💬 Ask me about AI, Cryptoeconomics, Product/Project Roadmapping, Security, Options Trading, Video and Film-Making, Guitar, Music History
 
 #### 📫 How to reach me: ericsteen1@gmail.com
 
