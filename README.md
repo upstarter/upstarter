@@ -16,7 +16,7 @@
 
 #### 📫 How to reach me: ericsteen1@gmail.com
 
-#### ⚡ Fun fact: My band in high school almost got a record deal in sweden.
+#### ⚡ Fun fact: Pugs were the preferred companion dogs for ancient Buddhist Monks.
 
 <p><strong>🤓	Languages</strong>: Python, Elixir & OTP, Kotlin for Android, Swift for Tensorflow, Ruby, JavaScript (ES7)</p>
 <p><strong>🛠 Frameworks</strong>: Flask, Android, iOS, Phoenix, Django, Rails, React</p>
