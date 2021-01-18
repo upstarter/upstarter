@@ -18,10 +18,10 @@
 
 #### ⚡ Fun fact: My band in high school almost got a record deal in sweden.
 
-<p><strong>&#U+1F913; Languages</strong>: Python, Elixir & OTP, Kotlin for Android, Swift for Tensorflow, Ruby, JavaScript (ES7)</p>
-<p><strong>Frameworks</strong>: Flask, Android, iOS, Phoenix, Django, Rails, React</p>
-<p><strong>Devops/GitOps</strong>: Terraform, Kubernetes/Helm, Istio, Envoy, GRPC</p>
-<p><strong>Paradigms</strong>: Object Oriented Analysis and Design, Functional Programming, Mult-agent systems, Domain Driven Design, Microservices, Gitops</p>
+<p><strong>🤓	Languages</strong>: Python, Elixir & OTP, Kotlin for Android, Swift for Tensorflow, Ruby, JavaScript (ES7)</p>
+<p><strong>🛠 Frameworks</strong>: Flask, Android, iOS, Phoenix, Django, Rails, React</p>
+<p><strong>💽	Devops/GitOps</strong>: Terraform, Kubernetes/Helm, Istio, Envoy, GRPC</p>
+<p><strong>🧐 Paradigms</strong>: Object Oriented Analysis and Design, Functional Programming, Mult-agent systems, Domain Driven Design, Microservices, Gitops</p>
 
 <!--
 **upstarter/upstarter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
