@@ -14,7 +14,9 @@
 
 #### 💬  &nbsp;Ask me about AI, Cryptoeconomics, Product/Project Roadmapping, Security, Options Trading, Video and Film-Making, Guitar, Music History
 
-#### 📫  &nbsp;How to reach me: ericsteen1@gmail.com
+#### 📫  &nbsp;How to reach me: 
+  - [Reddit](https://www.reddit.com/user/Crypto-Wise)
+  - [Twitter](https://twitter.com/cryptoWiseAI)
 
 #### ⚡  &nbsp;Fun fact: Pugs were the preferred companion dogs for ancient Tibetan Monks.
 
