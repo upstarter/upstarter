@@ -23,4 +23,4 @@
 <p><strong>🤓  &nbsp;Languages</strong>: Python, Elixir & OTP, JavaScript, Ruby </p>
 <p><strong>🛠. &nbsp;Frameworks</strong>: React, Phoenix, Rails, Android</p>
 <p><strong>💽	 &nbsp;Devops/GitOps</strong>: Terraform, Kubernetes/Helm, Istio, Envoy, GRPC</p>
-<p><strong>🧐  &nbsp;Paradigms</strong>: Event Driven Architecture, Object Oriented Analysis and Design, Functional Programming, Mult-agent systems, Domain Driven Design, Microservices, Gitops</p>
+<p><strong>🧐  &nbsp;Paradigms</strong>: Event Driven Streaming Architectures, Functional Programming, Mult-agent systems, Domain Driven Design, Microservices, Gitops</p>
