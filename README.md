@@ -9,7 +9,6 @@
   - [The Automata Project](https://www.github.com/upstarter/automata) - A Multi-agent autonomous decentralized systems framework for artificial intelligence control architects. Elixir and OTP.
 
 <!----
-
   - [Cryptowise](https://www.github.com/upstarter/cryptowise) - An ecosystem for quantamental traders and investors. Elixir, React, Microservices, GitOps. [www.cryptowise.ai](https://www.cryptowise.ai)
 
   - VolatilityWorks - The source for all things options volatility analysis and trading strategies. Coming Soon to [www.volatilityworks.com](https://www.volatilityworks.com) -->
@@ -18,7 +17,8 @@
 
 #### 💬  &nbsp;Ask me about AI, Entrepreneurship, Cryptoeconomics, Business, Systems & Options Trading.
 
-#### 📫  &nbsp;Around the internet: 
+#### 📫  &nbsp;Around the internet:
+  - [r/Quantamental on Reddit](https://www.reddit.com/r/quantamental/)
   - [Reddit](https://www.reddit.com/user/Crypto-Wise)
   - [Twitter](https://twitter.com/cryptoWiseAI)
 
