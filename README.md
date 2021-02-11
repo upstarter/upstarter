@@ -1,7 +1,7 @@
 <!-- ![](./particle-background.gif) -->
 ### Hi there, I'm Eric Steen 👋
 
-#### 👯  &nbsp; I’m looking to collaborate on WealthTech and AI projects, work in AI, data engineering and science, Devops and/or lead the development of new projects.
+#### 👯  &nbsp; I’m looking to collaborate on WealthTech and AI projects, and build a career in AI, data engineering and science, Devops and/or lead the development of new projects for pioneering tech firms.
 
 #### 🌱  &nbsp;I’m currently learning *Heterogeneous Multi-Agent Concurrent & Distributed AI Systems*, *Multi-Armed Contextual Bandits w/ Strategic Arms*, *Taskable Reinforcement Learning w/ Finite Automata Reward Machines*, *Linear Temporal Logic*
 
@@ -12,7 +12,7 @@
 
 <!--- 🔭 I’m currently working on a flask extension for [Adaptive Products](https://www.ericsteen.dev) -->
 
-#### 💬  &nbsp;Ask me about AI, Cryptoeconomics, Product/Project Roadmapping, Security, Options Trading, Video and Film-Making, Guitar, Music History
+#### 💬  &nbsp;Ask me about AI, Cryptoeconomics, Business, Systems & Options Trading,  
 
 #### 📫  &nbsp;How to reach me: 
   - [Reddit](https://www.reddit.com/user/Crypto-Wise)
@@ -20,22 +20,7 @@
 
 #### ⚡  &nbsp;Fun fact: Pugs were the preferred companion dogs for ancient Tibetan Monks.
 
-<p><strong>🤓  &nbsp;Languages</strong>: Python, Elixir & OTP, JavaScript, Kotlin for Android, Swift for Tensorflow, Ruby </p>
-<p><strong>🛠. &nbsp;Frameworks</strong>: Flask, Android, iOS, Phoenix, Django, Rails, React</p>
+<p><strong>🤓  &nbsp;Languages</strong>: Python, Elixir & OTP, JavaScript, Ruby </p>
+<p><strong>🛠. &nbsp;Frameworks</strong>: React, Phoenix, Rails, Android</p>
 <p><strong>💽	 &nbsp;Devops/GitOps</strong>: Terraform, Kubernetes/Helm, Istio, Envoy, GRPC</p>
-<p><strong>🧐  &nbsp;Paradigms</strong>: Object Oriented Analysis and Design, Functional Programming, Mult-agent systems, Domain Driven Design, Microservices, Gitops</p>
-
-<!--
-**upstarter/upstarter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p><strong>🧐  &nbsp;Paradigms</strong>: Event Driven Architecture, Object Oriented Analysis and Design, Functional Programming, Mult-agent systems, Domain Driven Design, Microservices, Gitops</p>
