@@ -20,7 +20,7 @@
 
 #### ⚡  &nbsp;Fun fact: Pugs were the preferred companion dogs for ancient Tibetan Monks.
 
-<p><strong>🤓  &nbsp;Languages</strong>: Python, Elixir & OTP, Kotlin for Android, Swift for Tensorflow, Ruby, JavaScript (ES7)</p>
+<p><strong>🤓  &nbsp;Languages</strong>: Python, Elixir & OTP, JavaScript, Kotlin for Android, Swift for Tensorflow, Ruby </p>
 <p><strong>🛠. &nbsp;Frameworks</strong>: Flask, Android, iOS, Phoenix, Django, Rails, React</p>
 <p><strong>💽	 &nbsp;Devops/GitOps</strong>: Terraform, Kubernetes/Helm, Istio, Envoy, GRPC</p>
 <p><strong>🧐  &nbsp;Paradigms</strong>: Object Oriented Analysis and Design, Functional Programming, Mult-agent systems, Domain Driven Design, Microservices, Gitops</p>
