@@ -22,9 +22,9 @@
   - [Reddit](https://www.reddit.com/user/Crypto-Wise)
   - [Twitter](https://twitter.com/cryptoWiseAI)
 
-#### ⚡  &nbsp;Fun fact:
-
-<p>Pugs were the preferred companion dogs for ancient Tibetan Monks.</p>
+#### ⚡  &nbsp;Fun facts:
+  - Pugs were the preferred companion dog of ancient Tibetan Monks.
+  - Many scientists who worked with John Von Neumann were awed by his blazingly fast mind and easy comprehension of complex mathematical problems and many regarded him as the greatest mathematician who ever lived.
 
 <p><strong>🤓  &nbsp;Languages</strong>: Python, Elixir & OTP, JavaScript, Ruby </p>
 <p><strong>🛠. &nbsp;Frameworks</strong>: React, Phoenix, Rails, Android</p>
