@@ -22,7 +22,8 @@
   - [Reddit](https://www.reddit.com/user/Crypto-Wise)
   - [Twitter](https://twitter.com/cryptoWiseAI)
 
-#### ⚡  &nbsp;Fun fact: Pugs were the preferred companion dogs for ancient Tibetan Monks.
+#### ⚡  &nbsp;Fun fact: 
+  - Pugs were the preferred companion dogs for ancient Tibetan Monks.
 
 <p><strong>🤓  &nbsp;Languages</strong>: Python, Elixir & OTP, JavaScript, Ruby </p>
 <p><strong>🛠. &nbsp;Frameworks</strong>: React, Phoenix, Rails, Android</p>
