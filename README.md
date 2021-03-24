@@ -5,7 +5,7 @@
 
 #### 🌱  &nbsp;I’m currently learning *Heterogeneous Multi-Agent Concurrent & Distributed AI Systems*, *Multi-Armed Contextual Bandits w/ Strategic Arms*, *Taskable Reinforcement Learning w/ Finite Automata Reward Machines*, *Linear Temporal Logic*
 
-#### 🤔  &nbsp;I'm currently looking for help with this open source project that I work on when I have extra time outside of work:
+#### 🤔  &nbsp;I'm currently looking for help with my open source project
   - [The Automata Project](https://www.github.com/upstarter/automata) - A Multi-agent autonomous decentralized systems framework for artificial intelligence control architects. Elixir and OTP.
 
 <!----
