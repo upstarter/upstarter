@@ -22,9 +22,9 @@
   - [Reddit](https://www.reddit.com/user/Crypto-Wise)
   - [Twitter](https://twitter.com/cryptoWiseAI)
 
-#### ⚡  &nbsp;Fun facts:
+#### ⚡  &nbsp;Fun facts/quites:
   - Pugs were the preferred companion dog of ancient Tibetan Monks.
-  - Many scientists who worked with John Von Neumann were awed by his blazingly fast mind and easy comprehension of complex mathematical problems and many regarded him as the greatest mathematician who ever lived.
+  - "If I had an hour to solve a problem I’d spend 55 minutes thinking about the problem and five minutes thinking about solutions." — Albert Einstein
 
 <p><strong>🤓  &nbsp;Languages</strong>: Python, Elixir & OTP, JavaScript, Ruby </p>
 <p><strong>🛠. &nbsp;Frameworks</strong>: React, Phoenix, Rails, Android</p>
