@@ -25,6 +25,8 @@
 #### ⚡  &nbsp;Fun facts/quites:
   - Pugs were the preferred companion dog of ancient Tibetan Monks.
   - "If I had an hour to solve a problem I’d spend 55 minutes thinking about the problem and five minutes thinking about solutions." — Albert Einstein
+  - "A good plan, violently executed now, is better than a perfect plan next week" — George Patton
+
 
 <p><strong>🤓  &nbsp;Languages</strong>: Python, Elixir & OTP, JavaScript, Ruby </p>
 <p><strong>🛠. &nbsp;Frameworks</strong>: React, Phoenix, Rails, Android</p>
