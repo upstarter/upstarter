@@ -22,7 +22,7 @@
   - [Reddit](https://www.reddit.com/user/Crypto-Wise)
   - [Twitter](https://twitter.com/cryptoWiseAI)
 
-#### ⚡  &nbsp;Fun facts/quites:
+#### ⚡  &nbsp;Fun facts/quotes:
   - Pugs were the preferred companion dog of ancient Tibetan Monks.
   - "If I had an hour to solve a problem I’d spend 55 minutes thinking about the problem and five minutes thinking about solutions." — Albert Einstein
   - "A good plan, violently executed now, is better than a perfect plan next week" — George Patton
