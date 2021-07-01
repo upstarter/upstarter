@@ -21,9 +21,9 @@ The mesh relies on NGINX w/ CORS, comprehensive SSL/TLS. envoy load balancing, h
 
 
 ### Other Projects
-  - [Cryptowise](https://www.github.com/upstarter/cryptowise) - An ecosystem for quantamental traders and investors. Elixir, React, Microservices, GitOps. [www.cryptowise.ai](https://www.cryptowise.ai)
+  - [Cryptowise](https://www.github.com/upstarter/cryptowise) - An ecosystem for quantamental traders and investors. Elixir, React, Microservices, GitOps.
 
-  - VolatilityWorks - The source for all things options volatility analysis and trading strategies. Coming Soon to [www.volatilityworks.com](https://www.volatilityworks.com) -->
+  - [VolatilityWorks](https://www.volatilityworks.com) - The source for all things options volatility analysis and trading strategies. Coming Soon to a home theatre near you.
 
 
 #### 💬  &nbsp;Ask me about AI, Entrepreneurship, Cryptoeconomics, Business, Systems & Options Trading.
