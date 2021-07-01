@@ -24,7 +24,7 @@ The mesh relies on NGINX w/ CORS, comprehensive end-to-end SSL/TLS thru cloudfla
 
 
 ### Other Projects
-  - [Cryptowise](https://www.github.com/upstarter/cryptowise) - An ecosystem for quantamental traders and investors. Elixir, React, Microservices, GitOps.
+  - [Cryptowise](https://www.cryptowise.ai) - An ecosystem for quantamental traders and investors. Elixir, React, Microservices, GitOps.
 
   - [VolatilityWorks](https://www.volatilityworks.com) - The source for all things options volatility analysis and trading strategies. Coming Soon to a home theatre near you.
 
