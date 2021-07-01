@@ -10,8 +10,9 @@
 	1. API Gateway – A tightly secured data plane API Gateway ingress.
 	2. AI service – A python deep learning node for batch analytics.
 	3. Frontend – A react/redux, webpack, JSS grid, ES7 frontend with middleware
-	4. Backend – A DDD designed event-driven Elixir Umbrella w/ OTP  that runs state machines \
-	on RDBMS and graph data stores, ETS in-memory database, Phoenix Registry PubSub, and front-end support.
+	4. Backend – A DDD designed event-driven Elixir Umbrella w/ OTP  that runs
+ 	   state machines on RDBMS and graph data stores, ETS in-memory database,
+	   Phoenix Registry PubSub, and front-end support.
   
 The mesh relies on NGINX w/ CORS, comprehensive SSL/TLS. envoy load balancing, http filtering, automatic retries, global rate limiting, circuit breaking. The mesh has GitOps with reusable infrastructure provisioning libraries using terraform & code generation, cloud/edge machine learning pipelines, data mesh, GRPC, end-to-end security and compliance for the crypto space. Trunk based development, GitOps, CI/CD, extensive efficiency enabling bash scripts. Includes boostrappers Blue/Green & Canary deploys, Terraform Vault, and Chaos Injection. Extreme programming with merciless refactoring, automated testing, clean code, SOLID, eye towards performance and security.
 
