@@ -7,7 +7,7 @@
 
 4 years of with service mesh, where I’ve worked on a data plane using Envoy as an edge proxy to handle service-to-service communication between microservices on docker-optimized containers:
 
-	1. API Gateway – A tightly secured data plane API Gateway ingress.
+	1. API Gateway – A data plane API Gateway ingress.
 	2. AI service – A python deep learning node for batch analytics.
 	3. Frontend – A react/redux, webpack, JSS grid, ES7 frontend with
 	   Enterprise Integration Patterned middleware.
