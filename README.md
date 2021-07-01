@@ -7,7 +7,7 @@
 
 4 years of with service mesh, where I’ve worked on a data plane using Envoy as an edge proxy to handle service-to-service communication between microservices on docker-optimized containers:
 
-	1. API Gateway – A data plane API Gateway ingress.
+	1. API Gateway – An envoy data plane API Gateway ingress.
 	2. AI service – A python deep learning node for batch analytics.
 	3. Frontend – A react/redux, webpack, JSS grid, ES7 frontend with
 	   Enterprise Integration Patterned middleware.
@@ -15,7 +15,7 @@
  	   state machines on RDBMS and graph data stores, ETS in-memory database,
 	   Phoenix Registry PubSub, and front-end support.
   
-The mesh relies on NGINX w/ CORS, comprehensive SSL/TLS. envoy load balancing, http filtering, automatic retries, global rate limiting, circuit breaking. The mesh has GitOps with reusable infrastructure provisioning libraries using terraform & code generation, cloud/edge machine learning pipelines, data mesh, GRPC, end-to-end security and compliance for the crypto space. Trunk based development, GitOps, CI/CD, extensive efficiency enabling bash scripts. Includes boostrappers Blue/Green & Canary deploys, Terraform Vault, and Chaos Injection. Extreme programming with merciless refactoring, automated testing, clean code, SOLID, eye towards performance and security.
+The mesh relies on NGINX w/ CORS, comprehensive end-to-end SSL/TLS thru cloudflare, envoy load balancing, http filtering, automatic retries, global rate limiting, circuit breaking. The mesh has GitOps with reusable infrastructure provisioning libraries using terraform & code generation, cloud/edge machine learning pipelines, data mesh, GRPC, end-to-end security and compliance for the crypto space. Trunk based development, GitOps, CI/CD, extensive efficiency enabling bash scripts. Includes boostrappers Blue/Green & Canary deploys, Terraform Vault, and Chaos Injection. Extreme programming with merciless refactoring, automated testing, clean code, SOLID, eye towards performance and security.
 
 #### 🌱  &nbsp;I’m currently learning *Heterogeneous Multi-Agent Concurrent & Distributed AI Systems*, *Multi-Armed Contextual Bandits w/ Strategic Arms*, *Taskable Reinforcement Learning w/ Finite Automata Reward Machines*, *Linear Temporal Logic*
 
