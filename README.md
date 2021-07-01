@@ -9,7 +9,8 @@
 
 	1. API Gateway – A tightly secured data plane API Gateway ingress.
 	2. AI service – A python deep learning node for batch analytics.
-	3. Frontend – A react/redux, webpack, JSS grid, ES7 frontend with Enterprise Integration Patterned middleware.
+	3. Frontend – A react/redux, webpack, JSS grid, ES7 frontend with
+	   Enterprise Integration Patterned middleware.
 	4. Backend – A DDD designed event-driven Elixir Umbrella w/ OTP  that runs
  	   state machines on RDBMS and graph data stores, ETS in-memory database,
 	   Phoenix Registry PubSub, and front-end support.
