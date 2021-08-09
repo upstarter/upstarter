@@ -1,7 +1,7 @@
 <!-- ![](./particle-background.gif) -->
 ### Hi there, I'm Eric Steen 👋
 
-#### 👯  &nbsp; I’m looking to collaborate on AI projects, data engineering and science, Devops and/or architect greenfield distributed systems for pioneering tech startups.
+#### 👯  &nbsp; I’m looking for collaborators on an AI project [Automata](www.github.com/upstarter/automata). I've been Doing Devops helping build out greenfield distributed systems for tech startups. I'm currently a consultant at Taos as a Devops Engineer.
 
 #### What I've been doing
 
