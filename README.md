@@ -1,7 +1,7 @@
 <!-- ![](./particle-background.gif) -->
 ### Hi there, I'm Eric Steen 👋
 
-#### 👯  &nbsp; I’m looking to collaborate on WealthTech and AI projects, data engineering and science, Devops and/or lead the development of new distributed systems for pioneering tech startups.
+#### 👯  &nbsp; I’m looking to collaborate on AI projects, data engineering and science, Devops and/or architect greenfield distributed systems for pioneering tech startups.
 
 #### What I've been doing
 
