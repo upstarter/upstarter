@@ -1,7 +1,7 @@
 <!-- ![](./particle-background.gif) -->
 ### Hi there, I'm Eric Steen 👋
 
-#### 👯  &nbsp; I’m looking for collaborators on an AI project [Automata](https://www.github.com/upstarter/automata). Lately I've been doing Devops and helping build out greenfield distributed systems as a consultant at [Taos](https://www.taos.com).
+#### 👯  &nbsp; I’m looking for collaborators on an AI project [Automata](https://www.github.com/upstarter/automata?_target=Blank). Lately I've been doing Devops and helping build out greenfield distributed systems as a consultant at [Taos](https://www.taos.com).
 
 #### What I've been doing
 
