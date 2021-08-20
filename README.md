@@ -12,7 +12,7 @@
 	3. Frontend – A react/redux, webpack, JSS grid, ES7 frontend with
 	   Enterprise Integration Patterned middleware.
 	4. Backend – A DDD designed event-driven Elixir Umbrella w/ OTP  that runs
- 	   state machines on RDBMS and graph data stores, ETS in-memory database,
+ 	   state machines on RDBMS, firestore, and graph data stores, ETS in-memory database,
 	   Phoenix Registry PubSub, and front-end support.
   
 The mesh relies on comprehensive end-to-end security (SSL/TLS, http-only secure cookie JWT access/refresh sessions, multi-layer credentials), cloudflare CDN, Envoy  for load balancing, http filtering, automatic retries, global rate limiting, circuit breaking. NGINX w/ CORS, Infrastructure as Code (IaC) with abstract reusable Terraform libraries. Mesh used for analytics platform, machine learning pipelines for the crypto space. Processes include Trunk Based Development, GitOps, CI/CD, extensive CLI efficiency-enabling bash scripts. Includes boostrappers Blue/Green & Canary deploys, Terraform Vault, and Chaos Injection. Extreme programming with merciless refactoring, automated testing, clean code, SOLID, eye towards performance and security.
