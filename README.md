@@ -24,7 +24,7 @@ The mesh relies on comprehensive end-to-end security (SSL/TLS, http-only secure 
 
 
 ### Other Projects
-  - [Cryptowise](https://www.cryptowise.ai) - An ecosystem for quantamental traders and investors. Elixir, React, Microservices, GitOps.
+  - [Cryptowise](https://www.cryptowise.ai) - An ecosystem for quantamental traders and investors. Elixir, React, Service Mesh, GitOps.
 
   - [VolatilityWorks](https://www.volatilityworks.com) - The source for all things options volatility analysis and trading strategies. Coming Soon.
 
