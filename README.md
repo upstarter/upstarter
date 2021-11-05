@@ -42,7 +42,7 @@ The mesh relies on comprehensive end-to-end security (SSL/TLS, http-only secure 
   - "A good plan, violently executed now, is better than a perfect plan next week" — George Patton
 
 
-<p><strong>🤓  &nbsp;Languages</strong>: Python, Elixir & OTP, JavaScript, Ruby </p>
+<p><strong>🤓  &nbsp;Languages</strong>: Python, Elixir & OTP, JavaScript, Go </p>
 <p><strong>🛠. &nbsp;Frameworks</strong>: React, Phoenix, Rails, Android</p>
 <p><strong>💽. &nbsp;Devops/GitOps</strong>: Terraform, Kubernetes/Helm, Istio, Envoy, GRPC</p>
 <p><strong>🧐  &nbsp;Paradigms & Trends</strong>: Event Driven Streaming Architectures, JS Observables, React Query, Differentiable Programming, Multi-Agent systems, Functional Programming, Domain Driven Design, Microservices</p>
