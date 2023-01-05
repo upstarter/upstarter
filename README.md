@@ -1,7 +1,7 @@
 <!-- ![](./particle-background.gif) -->
 ### Hi there, I'm Eric Steen 👋
 
-#### 👯  &nbsp; I’m looking for collaborators on <a href="https://www.github.com/upstarter/cryptowise" target="_blank">Automata</a> and an AI project <a href="https://www.github.com/upstarter/automata" target="_blank">Automata</a>. Lately I've been doing Devops/Dataops and helping build out greenfield distributed systems as a consultant at <a href="https://www.taos.com" target="_blank">Taos</a>.
+#### 👯  &nbsp; I’m looking for collaborators on an open source crypto trading ecosystem <a href="https://www.github.com/upstarter/cryptowise" target="_blank">CryptoWise</a> and an AI project <a href="https://www.github.com/upstarter/automata" target="_blank">Automata</a>. Lately I've been doing Devops/Dataops and helping build out greenfield distributed systems as a consultant at <a href="https://www.taos.com" target="_blank">Taos</a>.
 
 #### 🌱  &nbsp;I’m currently gaining my PMP and Google Machine Learning Engineer certifications.
 
