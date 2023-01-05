@@ -6,7 +6,7 @@
 #### 🌱  &nbsp;I’m currently gaining my PMP and Google Machine Learning Engineer certifications.
 
 #### 🤔  &nbsp;I'm currently looking for help with my open source projects
-  - [Cryptowise](<a href="https://www.github.com/upstarter/automata" target="_blank">Automata</a>) – An open source ecosystem for quantamental traders.
+  - [Cryptowise](https://www.github.com/upstarter/cryptowise) – An open source ecosystem for quantamental traders.
   - [The Automata Project](https://www.github.com/upstarter/automata) - A Multi-agent autonomous decentralized systems framework for artificial intelligence control architects. Elixir and OTP.
 
 #### 💬  &nbsp;Ask me about AI, Open Source Business Models, Entrepreneurship, Cryptoeconomics, Business, Systems & Options Trading.
