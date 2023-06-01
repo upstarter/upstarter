@@ -1,5 +1,5 @@
 <!-- ![](./particle-background.gif) -->
-### Hi there, I'm Eric Steen, Engineer, PMP 👋
+### Hi there, I'm Eric Steen, SRE, AI, Security, PMP 👋
 
 #### 👯  &nbsp; I’m looking for collaborators on an open source crypto trading ecosystem <a href="https://www.github.com/upstarter/cryptowise" target="_blank">CryptoWise</a> and an AI project <a href="https://www.github.com/upstarter/automata" target="_blank">Automata</a>. Lately I've been doing DevSecOps/SRE and helping build out greenfield kubernetes based container systems as a consultant at <a href="https://www.taos.com" target="_blank">IBM</a>.
 
