@@ -25,4 +25,4 @@
 <p><strong>🤓  &nbsp;Languages</strong>: Python, Elixir & OTP, JavaScript, Go </p>
 <p><strong>🛠. &nbsp;Frameworks</strong>: React, Phoenix, Rails, Android</p>
 <p><strong>💽. &nbsp;DevSecOps/SRE/GitOps</strong>: Terraform, Kubernetes/Helm, Istio, Envoy, GRPC</p>
-<p><strong>🧐  &nbsp;Paradigms & Trends</strong>: Event Driven Streaming Architectures, Enterprise AI Service Mesh Platforms, Differentiable Programming, Multi-Agent systems, Functional Programming, Domain Driven Design, Microservices</p>
+<p><strong>🧐  &nbsp;Paradigms & Trends</strong>: Event Driven Streaming Architectures, Enterprise AI Service Mesh Platforms, Differentiable Programming, Multi-Agent systems, Functional Programming, Domain Driven Design, Microservices, JS Observables</p>
