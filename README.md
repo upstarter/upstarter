@@ -3,8 +3,6 @@
 
 #### 👯  &nbsp; I’m looking for collaborators on an open source crypto trading ecosystem <a href="https://www.github.com/upstarter/cryptowise" target="_blank">CryptoWise</a> and an AI project <a href="https://www.github.com/upstarter/automata" target="_blank">Automata</a>. Lately I've been doing DevSecOps/SRE and helping build out greenfield kubernetes based container systems as a consultant at <a href="https://www.taos.com" target="_blank">IBM</a>.
 
-#### 🌱  &nbsp;Learning things to improve my job performance.
-
 #### 🤔  &nbsp;I'm currently looking for help with my open source projects
   - [Cryptowise](https://www.github.com/upstarter/cryptowise) – An open source ecosystem for quantamental traders.
   - [The Automata Project](https://www.github.com/upstarter/automata) - A Multi-agent autonomous decentralized systems framework for artificial intelligence control architects. Elixir and OTP.
@@ -22,7 +20,7 @@
   - "A good plan, violently executed now, is better than a perfect plan next week" — George Patton
   - "Thinking is hard, that's why most people judge" - Carl Jung
 
-<p><strong>🤓  &nbsp;Languages</strong>: Python, Elixir & OTP, JavaScript, Go </p>
+<p><strong>🤓  &nbsp;Languages</strong>: Python, Elixir & OTP, JavaScript, Go, Ruby </p>
 <p><strong>🛠. &nbsp;Frameworks</strong>: React, Phoenix, Rails, Android</p>
-<p><strong>💽. &nbsp;DevSecOps/SRE/GitOps</strong>: Terraform, Kubernetes/Helm, Istio, Envoy, GRPC</p>
+<p><strong>💽. &nbsp;DevSecOps</strong>: Terraform, Kubernetes/Helm, Istio, Envoy, Openshift</p>
 <p><strong>🧐  &nbsp;Paradigms & Trends</strong>: Event Driven Streaming Architectures, Enterprise AI Service Mesh Platforms, Differentiable Programming, Multi-Agent systems, Functional Programming, Domain Driven Design, Microservices, JS Observables</p>
