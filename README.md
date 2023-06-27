@@ -1,5 +1,5 @@
 <!-- ![](./particle-background.gif) -->
-### Hi there, I'm Eric Steen, DevSecOps, AI, Security, PMP 👋
+### Hi there, I'm Eric Steen, DevSecOps, AI, PMP 👋
 
 #### 👯  &nbsp;Lately I've been doing DevSecOps and helping build out AI and greenfield kubernetes-based hyper-secure container systems as a consultant at <a href="https://www.taos.com" target="_blank">IBM</a>.
 
@@ -15,7 +15,7 @@
   - "A good plan, violently executed now, is better than a perfect plan next week" — George Patton
   - "Thinking is hard, that's why most people judge" - Carl Jung
 
-<p><strong>💽. &nbsp;DevSecOps</strong>: Terraform, Kubernetes/Helm, Istio, Envoy, Openshift</p>
+<p><strong>💽. &nbsp;DevSecOps</strong>: Terraform, Vault, Kubernetes/Helm, Istio, Envoy, Openshift</p>
 <p><strong>🤓  &nbsp;CyberSecurity</strong>: Ethical Hacking, OpsSec, OSINT, Network & Physical Digital Forensics </p>
 <p><strong>🛠. &nbsp;AI Pipelines</strong>: Kubeflow, Tensorflow, Sagemaker</p>
 <p><strong>🛠. &nbsp;Frameworks</strong>: React, Phoenix, Rails, Android</p>
