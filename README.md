@@ -3,9 +3,8 @@
 
 #### 👯  &nbsp;Lately I've been doing Cybersecurity Inventory Management and automation to secure AI and greenfield kubernetes-based  container systems as a consultant at <a href="https://www.ibm.com" target="_blank">IBM</a>.
 
-[//]: # (#### 🤔  &nbsp;I'm currently seeking contributors on some some open source projects
-  //- [The Automata Project](https://www.github.com/upstarter/automata) - A Multi-agent autonomous decentralized systems framework for artificial intelligence control architects. Elixir and OTP.
-)
+[//]: # (#### 🤔  &nbsp;I'm currently seeking contributors on some some open source projects)
+[//]: # [The Automata Project](https://www.github.com/upstarter/automata) - A Multi-agent autonomous decentralized systems framework for artificial intelligence control architects. Elixir and OTP.)
 
 #### 💬  &nbsp;Ask me about AI, Security, Linux, High performance computing.
 
